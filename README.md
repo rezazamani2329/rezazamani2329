@@ -4,9 +4,6 @@
 #### Proficient in analytical tools, skilled in converting complex data into actionable insights and adept at teaching, mentoring, project management and collaborative environments.
 
 
-
-
-
 | Category  | Technologies |
 | :---   | :---   |
 |Programming Languages \& Software |  Python, SQL, Stata, EViews, C++, R, Latex, Office  |
@@ -17,12 +14,3 @@
 |Time Series| Dynamic Linear Regression Models (ARDL, AR, MA, ARMA, ARIMA), Dynamic Skedastic \& Correlation Models (ARCH, GARCH, EGARCH, Variance Targeting), Multivariate Time Series (VAR, ECM, VECM, Granger Causality, Regime Switching Models), Panel data|
 
 
-:}}}
-
-	
-Programming Languages	     
-Cloud Computing	  
-ML & AI	  
-Visualization Tools	   
-Frameworks	    
-Miscellaneous	  
