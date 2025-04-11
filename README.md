@@ -1,4 +1,4 @@
-#### Hi everyone 👋
+#### Hi, Hallo, 'سلام' everyone 👋
 #### Here is Reza Zamani
 
 
