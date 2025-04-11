@@ -9,6 +9,8 @@
 
 | Category  | Technologies |
 | ------------- | ------------- |
+|Programming Languages \& Software |  Python, SQL, Stata, EViews, C++, R, Latex, Office  |
+| ------------- | ------------- |
 |Tools \& frameworks  | Numpy, Pandas, Scikit-learn, Tensorflow, Surprise, Keras, Scalar, PyTorch, SciPy, Spark, NLTK, Open AI, Matplotlib, Seaborn, Plotly, Statsmodels |
 | Content Cell  | Content Cell  |
 🛠️ Tech Stack
