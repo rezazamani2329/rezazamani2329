@@ -11,7 +11,7 @@
  |Preprocessing, visualization and Data Analysis | Data Extraction, Visualization, Transformation, Imputation, Centering, Scaling, Labeling,  Feature Engineering, Feature Permutation, SHAP |
  |Causal Inference, counterfactual and policy analysis| Difference-in-Difference, Synthetic Control Methods (SCM), Instrumental Variables, A/B test|
 |Time Series| Dynamic Linear Regression Models (ARDL, AR, MA, ARMA, ARIMA), Dynamic Skedastic \& Correlation Models (ARCH, GARCH, EGARCH, Variance Targeting), Multivariate Time Series (VAR, ECM, VECM, Granger Causality, Regime Switching Models), Panel data|
-|Financial Engineering| Quantitative Research | Quantitive Trade | Investment | Derivatives | Portfolio Management | Option Pricing| Commodities |
-| Macroeconomics | Fiscal and Monetary Policies| Financial Economics| 
+|Financial Engineering| Quantitative Research , Quantitive Trade , Investment , Derivatives , Portfolio Management , Option Pricing, Commodities |
+| Economics  | Macroeconomics, Fiscal and Monetary Policies, Financial Economics| 
 
 
